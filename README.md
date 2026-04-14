@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Tácticas de OSINT: Lo que Internet sabe de ti (y tú no sabías) [3]
+# Tácticas de OSINT: Lo que Internet sabe de ti (y tú no sabías) [3]
 
 **Instructor:** Omar Espino (@omespino) | Consultor de Seguridad en Websec y Bug Bounty Hunter [4].
 **Blog Personal:** omespino.com [4].
@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Identidad y Huella Digital 👣
+## 1. Identidad y Huella Digital 
 Conceptos fundamentales sobre la información que dejamos expuesta y herramientas para su recolección [7].
 
 *   **[Have I Been Pwned](https://haveibeenpwned.com/)**: Rastreo de correos en bases de datos hackeadas [8-10].
@@ -19,7 +19,7 @@ Conceptos fundamentales sobre la información que dejamos expuesta y herramienta
 
 ---
 
-## 2. Explotación de Fuentes Públicas y Registros (México) 🇲🇽
+## 2. Explotación de Fuentes Públicas y Registros (México) 
 Uso de registros de acceso público para localizar información específica [7].
 
 *   **[SEP (Registro Nacional de Profesionistas)](https://www.cedulaprofesional.sep.gob.mx/)**: Verificación de Cédulas Profesionales por nombre completo [2, 8, 11].
@@ -32,7 +32,7 @@ Uso de registros de acceso público para localizar información específica [7].
 
 ---
 
-## 3. Poder Judicial (Investigación Legal) ⚖️
+## 3. Poder Judicial (Investigación Legal) 
 Buscadores públicos para rastrear demandas, amparos y pleitos legales [14].
 
 *   **[SISE (Poder Judicial de la Federación)](https://sise.cjf.gob.mx/sise/)**: Búsqueda de amparos y juicios federales en los 32 estados [13, 14].
@@ -41,7 +41,7 @@ Buscadores públicos para rastrear demandas, amparos y pleitos legales [14].
 
 ---
 
-## 4. Seguridad Patrimonial y Vehicular 🚗🏠
+## 4. Seguridad Patrimonial y Vehicular
 Búsqueda de propiedades, estatus de vehículos y reportes de robo [15].
 
 *   **[REPUVE](http://www2.repuve.gob.mx:8080/ciudadania/)**: Consulta nacional de reporte de robo de vehículos con placa o NIV [2, 13, 15].
@@ -51,7 +51,7 @@ Búsqueda de propiedades, estatus de vehículos y reportes de robo [15].
 
 ---
 
-## 5. Análisis Forense, Metadatos y OSINT Físico 🔍
+## 5. Análisis Forense, Metadatos y OSINT Físico 
 Extracción de datos ocultos para obtener contexto adicional [7].
 
 *   **[ExifTool (Desktop Install)](https://exiftool.org/install.html)**: Extracción profunda de metadatos en imágenes (GPS, fechas, dispositivos, rutas de red) [16-18].
@@ -62,7 +62,7 @@ Extracción de datos ocultos para obtener contexto adicional [7].
 
 ---
 
-## 6. Correlación, Pivoting y Redes Sociales 🌐
+## 6. Correlación, Pivoting y Redes Sociales 
 Técnicas para conectar datos dispersos (un correo, un nombre de usuario) y ampliar la superficie de investigación [9, 17].
 
 *   **[TrueCaller Web](https://www.truecaller.com/auth/sign-in?login=phone)**: Identificación de nombres reales asociados a números telefónicos [17-19].
@@ -82,7 +82,7 @@ Técnicas para conectar datos dispersos (un correo, un nombre de usuario) y ampl
 
 ---
 
-## 7. Repositorios Maestros y Frameworks 📚
+## 7. Repositorios Maestros y Frameworks
 Software y frameworks diseñados para automatizar la búsqueda y recolección [9].
 
 *   **[OSINT Framework](https://osintframework.com/)**: Estructura de navegación para organizar tu investigación [12, 19].
@@ -92,7 +92,7 @@ Software y frameworks diseñados para automatizar la búsqueda y recolección [9
 
 ---
 
-## 8. Recursos Adicionales del Taller 📝
+## 8. Recursos Adicionales del Taller 
 *   **[Página Oficial del Taller - TropiCON 2026](https://tropicon.org/workshops/osint-tactics-what-the-internet-knows-about-you-that-you-didnt-know-about-by-omar-espino/)**
 *   **[GitHub - Maigret](https://github.com/soxoj/maigret?tab=readme-ov-file)**: Búsqueda masiva de un mismo alias [17, 19].
 *   **[GitHub - Curso OSINT 2022 Academia](https://github.com/aztr4x/CursoOSINT2022_Academia?tab=readme-ov-file)**
