@@ -76,10 +76,8 @@ Técnicas para conectar datos dispersos (un correo, un nombre de usuario) y ampl
 *   **[ScamAdviser](https://www.scamadviser.com/) / WhosID**: Evaluación de reputación de tiendas en línea y perfiles de vendedores [20].
 
 ### Casos de Estudio y Extracción Corporativa 🏢
-*   **[RocketReach OXXO Profile](https://rocketreach.co/oxxo-profile_b5cff26ff42e0a77)**: Extracción de contactos corporativos, correos y teléfonos de directivos [17-19].
+*   **[RocketReach Profile](https://rocketreach.co/oxxo-profile_b5cff26ff42e0a77)**: Extracción de contactos corporativos, correos y teléfonos de directivos [17-19].
 *   **[RocketReach Websec Profile](https://rocketreach.co/websec-profile_b4030d12fc097db9)**: Extracción de información de la empresa [18, 19].
-*   **[Prezi Caso Eulises](https://prezi.com/p/xpy7dybtvqdt/objetivo-mensual-de-ventas-junio-2025/)**: Demostración de fugas de datos expuestos en presentaciones públicas (ej. objetivos de ventas) [18, 19].
-
 ---
 
 ## 7. Repositorios Maestros y Frameworks
